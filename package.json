@@ -33,11 +33,6 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-    "keys": [
-      {
-        "secret":"bHb51CMgHWyTkgJf5qoBsqz8CG8U9fbYmd4Fa95m5sKkoJb6WJx7hq2rRXfz"
-      }
     ]
   }
 }
